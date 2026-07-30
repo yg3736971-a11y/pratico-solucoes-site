@@ -1,0 +1,13 @@
+{
+  "client": "Prático Soluções",
+  "whatsapp": "5511965267558",
+  "service_area": "Região central de São Paulo",
+  "exports": {
+    "feed": 12,
+    "carousel": 4,
+    "stories": 8,
+    "reels": 4,
+    "highlights": 7,
+    "avatar": 1
+  }
+}

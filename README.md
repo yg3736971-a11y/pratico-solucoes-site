@@ -12,6 +12,12 @@ Site estático da Prático Soluções, sem inteligência artificial e sem creden
 - layout responsivo e acessível;
 - publicação automática no GitHub Pages.
 
+## Instagram e marketing
+
+O kit completo do Instagram está em [`marketing/instagram/`](marketing/instagram/):
+perfil, capas, posts, carrossel, Stories, Reels, legendas, calendário e instruções
+para o agente Marketing V2.
+
 ## Executar localmente
 
 ```bash
