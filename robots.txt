@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yg3736971-a11y.github.io/pratico-solucoes-site/sitemap.xml
