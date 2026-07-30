@@ -1,0 +1,17 @@
+dia,formato,arquivo,tema,cta,status
+1,Feed,01-apresentacao.png,Apresentação,Pedir avaliação,pronto_para_revisao
+3,Feed,02-servicos.png,Serviços,Salvar,pronto_para_revisao
+5,Feed,03-serralheria.png,Serralheria,Enviar necessidade,pronto_para_revisao
+8,Feed,04-eletrica.png,Elétrica,Enviar fotos e descrição,pronto_para_revisao
+10,Reel,01-reparos.png,Reparos,Compartilhar,roteiro_pronto
+12,Feed,05-marido-de-aluguel.png,Marido de aluguel,Pedir avaliação,pronto_para_revisao
+15,Feed,06-manutencao-predial.png,Manutenção predial,Falar com a equipe,pronto_para_revisao
+17,Reel,02-eletrica.png,Segurança elétrica,Salvar,roteiro_pronto
+19,Feed,07-reparos.png,Reparos,Pedir avaliação,pronto_para_revisao
+21,Carrossel,08-como-pedir-orcamento.png + carousel-01/,Pedido organizado,Abrir WhatsApp,pronto_para_revisao
+23,Feed,09-publicos.png,Públicos,Enviar para síndico ou empresa,pronto_para_revisao
+25,Reel,03-orcamento.png,Como funciona,Pedir avaliação,roteiro_pronto
+27,Feed,10-regiao-central.png,Região,Confirmar bairro,pronto_para_revisao
+28,Feed,11-envio-de-fotos.png,Dúvida frequente,Salvar,pronto_para_revisao
+29,Reel,04-serralheria.png,Serralheria,Pedir avaliação,roteiro_pronto
+30,Feed,12-cta-whatsapp.png,Conversão,Abrir WhatsApp,pronto_para_revisao
